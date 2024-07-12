@@ -18,21 +18,17 @@ Part of MIS373 - Advanced AI For Business course. Uses Python and Jupyter Notebo
 - Python
 - Jupyter Notebook
 - Google Colab (with GPU)
-- Libraries: [List key libraries used]
-
-## How to Use
-
-[Instructions on how to run the project]
+- Libraries: pandas, numpy,matplotlib, tensorflow, etc.
 
 ## Results
 
-[Brief summary of key findings or link to full report]
+The results has been summarized in the Andrew_Nguyen_MIS373A2_Task1.ipynb file. The Andrew_Nguyen_MIS373A2_Task1.ipynb file are for training multiple models in order to find the best model for the given case
 
 ## Author
 
-[Your Name]
+Andrew Nguyen
 
 ## Acknowledgements
 
 - Dataset provided by Harlfoxem on Kaggle
-- Project developed for MIS373 at [Your University Name]
+- Project developed for MIS373 at Deakin University
