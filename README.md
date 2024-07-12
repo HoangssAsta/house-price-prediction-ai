@@ -22,7 +22,7 @@ Part of MIS373 - Advanced AI For Business course. Uses Python and Jupyter Notebo
 
 ## Results
 
-The results has been summarized in the Andrew_Nguyen_MIS373A2_Task1.ipynb file. The Andrew_Nguyen_MIS373A2_Task1.ipynb file are for training multiple models in order to find the best model for the given case
+The results has been summarized in the Andrew_Nguyen_MIS373A2_Task1.ipynb file. The MIS373_Task1_Testing.ipynb file are for training multiple models in order to find the best model for the given case
 
 ## Author
 
